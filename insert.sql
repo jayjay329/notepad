@@ -1,1 +1,2 @@
-INSERT INTO `fivem`.`items` (`name`, `label`) VALUES ('notepad', 'Notepad');
+INSERT INTO `items` (name, label) VALUES 
+	('notepad', 'Notepad');
